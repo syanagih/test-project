@@ -6,4 +6,4 @@ This is also test
 ## Protection Test
 This is test, too.
 ### Collaborator Test
-This is also test
+This is also test.
